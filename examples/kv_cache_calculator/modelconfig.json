@@ -94,5 +94,11 @@
     "num_attention_heads": 64,
     "num_hidden_layers": 64,
     "num_key_value_heads": 8
-  }
+  },
+  "Qwen/Qwen3-235B-A22B": {
+    "hidden_size": 4096,
+    "num_attention_heads": 64,
+    "num_hidden_layers": 94,
+    "num_key_value_heads": 4
+    }
 }
